@@ -1,0 +1,1 @@
+aqui se implementa la extraccion de regiones salientes usando K-Means
